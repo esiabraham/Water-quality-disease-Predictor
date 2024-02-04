@@ -1,0 +1,1001 @@
+pH_level,temperature,disease
+7.28,20.25,worm infection
+6.49,21.4,Diarrhoea
+7.35,28.92,Diarrhoea
+7.18,20.32,Diarrhoea
+6.44,25.05,cholera
+7.12,27.16,hepatitis
+6.44,25.89,cholera
+7.52,21.6,hepatitis
+6.68,21.55,scabies
+6.2,23.8,scabies
+7.69,26.04,cholera
+7.46,25.36,hepatitis
+6.16,22.93,scabies
+7.15,27.05,cholera
+7.32,27.73,Diarrhoea
+7.71,28.66,hepatitis
+6.56,26.36,scabies
+6.33,23.55,worm infection
+7.4,26.84,Diarrhoea
+7.22,21.71,amebiasis
+6.33,23.79,amebiasis
+7.37,28.43,cholera
+6.46,20.32,scabies
+6.8,20.66,scabies
+6.43,24.99,gastroenteritis
+6.29,21.4,worm infection
+7.49,24.28,hepatitis
+6.72,29.97,typhoid
+7.02,20.91,cholera
+7.72,21.53,typhoid
+7.58,24.22,Diarrhoea
+6.77,25.96,gastroenteritis
+7.06,29.71,cholera
+7.36,21.15,worm infection
+7.54,23.4,worm infection
+6.87,24.54,worm infection
+7.94,27.62,Diarrhoea
+7.74,22.98,amebiasis
+6.31,27.63,cholera
+7.2,24.89,Diarrhoea
+7.86,28.79,worm infection
+6.48,22.41,Diarrhoea
+6.17,24.86,Diarrhoea
+7.96,25.33,typhoid
+6.26,24.75,typhoid
+6.53,28.72,hepatitis
+7.93,29.29,amebiasis
+7.43,23.99,scabies
+6.88,25.18,Diarrhoea
+6.5,20.64,cholera
+7.18,22.3,amebiasis
+6.01,27.08,cholera
+6.46,29.05,scabies
+6.14,22.38,gastroenteritis
+6.43,21.32,gastroenteritis
+6.49,24.73,hepatitis
+6.38,20.97,hepatitis
+6.71,24.11,cholera
+7.35,29.84,Diarrhoea
+6.12,27.28,Diarrhoea
+6.5,21.9,gastroenteritis
+6.28,21.83,gastroenteritis
+6.5,29.23,gastroenteritis
+7.62,28.56,Diarrhoea
+6.1,29.99,cholera
+7.94,29.26,amebiasis
+6.33,24.86,amebiasis
+7.73,29.02,typhoid
+6.76,29.85,worm infection
+7.85,27.85,worm infection
+6.85,29.57,gastroenteritis
+6.31,22.97,cholera
+7.16,25.42,scabies
+6.11,25.84,typhoid
+6.11,25.08,typhoid
+6.14,20.68,amebiasis
+6.81,29.42,amebiasis
+7.16,20.4,Diarrhoea
+6.84,25.84,scabies
+7.87,22.04,scabies
+6.48,23.96,worm infection
+6.91,29.29,Diarrhoea
+6.02,26.21,Diarrhoea
+6.15,22.13,worm infection
+6.26,23.49,Diarrhoea
+7.76,23.7,typhoid
+6.88,25.43,worm infection
+7.22,29.87,cholera
+7.34,25.55,Diarrhoea
+7.88,21.34,Diarrhoea
+7.78,27.42,typhoid
+6.54,26.05,scabies
+6.41,26.34,worm infection
+7.01,22.51,cholera
+6.18,24.24,worm infection
+6.09,23.34,typhoid
+7.27,22.62,gastroenteritis
+7.1,24.28,cholera
+6.22,29.45,typhoid
+7.09,28.35,typhoid
+6.86,20.42,scabies
+7.8,27.96,cholera
+7.8,22.1,amebiasis
+7.33,23.54,hepatitis
+7.95,27.49,amebiasis
+7.73,29.76,typhoid
+7.76,20.25,scabies
+7.56,24.12,amebiasis
+6.53,27.87,Diarrhoea
+6.77,20.39,gastroenteritis
+6.44,28.17,gastroenteritis
+6.7,28.21,amebiasis
+6.45,26.6,hepatitis
+6.66,28.64,worm infection
+6.7,25.09,scabies
+7.88,21.15,worm infection
+6.36,29.63,worm infection
+6.08,25.97,scabies
+7.46,23.14,Diarrhoea
+6.77,25.77,worm infection
+6.09,24.36,amebiasis
+6.73,20.7,scabies
+7.25,26.63,Diarrhoea
+7.44,23.0,worm infection
+7.33,23.26,worm infection
+7.11,21.92,hepatitis
+7.35,29.03,worm infection
+6.81,28.34,worm infection
+6.57,24.3,scabies
+6.93,24.42,amebiasis
+7.02,27.94,typhoid
+7.32,22.84,scabies
+6.19,29.52,amebiasis
+7.35,22.25,amebiasis
+6.29,20.46,gastroenteritis
+7.22,27.68,gastroenteritis
+6.83,26.3,amebiasis
+7.44,23.84,hepatitis
+6.49,26.56,cholera
+7.79,28.6,Diarrhoea
+7.56,22.19,gastroenteritis
+6.1,22.49,Diarrhoea
+6.91,28.01,scabies
+7.9,28.91,hepatitis
+7.66,25.48,typhoid
+7.49,24.75,worm infection
+7.5,28.4,worm infection
+7.53,25.21,amebiasis
+6.55,20.77,worm infection
+6.47,23.36,Diarrhoea
+6.28,22.31,typhoid
+7.41,20.64,hepatitis
+6.66,24.66,cholera
+6.41,24.2,cholera
+7.71,27.66,hepatitis
+6.95,29.43,worm infection
+7.51,28.53,hepatitis
+7.08,27.35,amebiasis
+6.98,22.73,gastroenteritis
+6.06,23.36,hepatitis
+7.45,28.41,typhoid
+7.96,25.34,hepatitis
+7.18,26.63,Diarrhoea
+7.29,21.36,gastroenteritis
+6.36,22.6,scabies
+6.42,23.27,hepatitis
+6.56,29.51,hepatitis
+6.5,20.82,cholera
+7.5,20.52,scabies
+6.45,20.69,cholera
+7.51,29.5,amebiasis
+7.68,26.21,amebiasis
+6.25,26.69,amebiasis
+6.93,22.56,scabies
+6.34,26.07,Diarrhoea
+7.56,21.64,worm infection
+6.22,20.26,worm infection
+7.15,29.08,hepatitis
+6.79,27.15,Diarrhoea
+7.18,28.31,amebiasis
+6.2,27.72,Diarrhoea
+7.59,25.66,cholera
+6.69,24.28,scabies
+6.14,26.48,cholera
+7.7,28.22,Diarrhoea
+6.87,23.62,gastroenteritis
+7.41,24.35,worm infection
+7.23,29.2,gastroenteritis
+6.93,28.26,worm infection
+6.64,22.45,Diarrhoea
+6.56,24.51,gastroenteritis
+7.14,26.68,scabies
+6.06,28.51,typhoid
+6.98,23.55,worm infection
+6.68,28.8,worm infection
+7.11,25.17,amebiasis
+6.17,27.2,gastroenteritis
+7.11,22.4,gastroenteritis
+7.29,24.91,cholera
+6.19,22.22,amebiasis
+6.61,25.82,gastroenteritis
+7.11,23.44,scabies
+6.7,24.54,worm infection
+6.5,21.21,amebiasis
+6.63,27.43,typhoid
+6.38,27.39,worm infection
+7.45,29.77,worm infection
+7.96,28.33,worm infection
+6.45,21.79,cholera
+7.42,21.27,cholera
+7.95,25.53,typhoid
+7.28,27.53,Diarrhoea
+7.75,25.74,gastroenteritis
+6.96,23.41,cholera
+6.5,28.62,Diarrhoea
+7.64,24.01,Diarrhoea
+7.15,26.86,typhoid
+6.3,25.63,worm infection
+6.17,22.48,hepatitis
+7.21,27.91,amebiasis
+7.55,23.8,gastroenteritis
+6.59,25.89,hepatitis
+6.61,26.21,Diarrhoea
+7.9,22.08,amebiasis
+6.53,20.81,amebiasis
+6.35,20.75,cholera
+6.82,26.89,gastroenteritis
+6.58,22.31,worm infection
+7.41,24.54,amebiasis
+7.85,27.88,amebiasis
+6.85,25.45,typhoid
+7.82,28.27,Diarrhoea
+6.12,27.93,worm infection
+6.88,24.69,worm infection
+7.4,29.43,gastroenteritis
+6.88,25.98,hepatitis
+7.47,26.04,cholera
+6.18,29.62,cholera
+8.0,26.72,worm infection
+7.15,27.63,typhoid
+6.94,26.52,worm infection
+6.36,25.85,gastroenteritis
+7.94,24.7,hepatitis
+6.67,26.7,typhoid
+6.66,26.94,worm infection
+7.33,24.0,cholera
+6.91,23.15,scabies
+6.23,27.73,cholera
+7.32,25.43,hepatitis
+6.11,25.18,gastroenteritis
+7.25,27.6,amebiasis
+6.53,21.31,worm infection
+6.88,26.98,Diarrhoea
+6.06,26.3,amebiasis
+7.42,23.11,cholera
+7.1,20.93,Diarrhoea
+6.92,21.17,typhoid
+7.0,27.17,worm infection
+6.83,24.82,gastroenteritis
+6.49,25.51,hepatitis
+6.38,25.99,typhoid
+7.73,22.76,hepatitis
+6.68,27.88,worm infection
+7.64,22.83,worm infection
+7.67,25.8,gastroenteritis
+7.73,24.47,gastroenteritis
+6.69,25.52,hepatitis
+6.91,23.22,amebiasis
+7.96,22.39,hepatitis
+6.47,27.76,cholera
+6.64,24.73,hepatitis
+6.77,26.64,typhoid
+6.99,20.37,scabies
+7.74,28.74,gastroenteritis
+6.2,29.1,cholera
+7.44,24.1,typhoid
+6.15,27.82,worm infection
+6.68,26.93,Diarrhoea
+7.7,28.52,hepatitis
+7.91,26.27,gastroenteritis
+7.74,20.36,Diarrhoea
+6.47,26.84,worm infection
+7.99,27.47,hepatitis
+7.96,27.6,Diarrhoea
+6.89,26.94,cholera
+6.09,27.96,worm infection
+6.72,24.31,amebiasis
+7.06,25.66,typhoid
+6.34,20.79,hepatitis
+7.24,22.41,typhoid
+6.46,26.38,gastroenteritis
+6.51,20.09,gastroenteritis
+7.8,26.78,typhoid
+6.15,29.45,worm infection
+7.28,24.24,worm infection
+6.91,23.02,hepatitis
+7.71,21.07,hepatitis
+7.14,25.75,worm infection
+6.04,28.3,hepatitis
+6.55,25.66,cholera
+7.82,27.45,worm infection
+7.55,22.3,scabies
+6.44,21.9,worm infection
+7.36,27.21,typhoid
+7.26,29.03,cholera
+6.62,24.41,scabies
+7.46,20.9,worm infection
+6.65,24.16,amebiasis
+6.26,25.39,scabies
+7.06,29.13,typhoid
+6.51,28.25,gastroenteritis
+7.93,22.95,scabies
+7.61,24.68,Diarrhoea
+6.28,29.67,hepatitis
+7.93,28.05,scabies
+6.18,23.95,worm infection
+7.07,24.55,worm infection
+7.17,28.22,scabies
+6.22,22.34,cholera
+7.24,29.43,scabies
+7.83,22.21,Diarrhoea
+7.27,24.64,worm infection
+7.3,21.17,cholera
+7.89,23.04,gastroenteritis
+6.23,22.35,typhoid
+6.78,23.71,hepatitis
+7.17,27.27,hepatitis
+7.31,28.34,hepatitis
+7.88,22.8,scabies
+6.43,24.45,amebiasis
+7.71,20.99,scabies
+7.09,29.78,scabies
+6.12,22.76,Diarrhoea
+7.9,28.24,Diarrhoea
+7.33,26.42,cholera
+6.1,23.34,typhoid
+7.57,22.05,amebiasis
+7.17,28.13,amebiasis
+6.66,21.48,cholera
+6.55,29.84,typhoid
+7.08,27.99,Diarrhoea
+7.32,20.26,cholera
+6.72,27.88,scabies
+6.03,22.65,typhoid
+7.48,25.26,Diarrhoea
+6.95,27.78,Diarrhoea
+6.9,22.22,cholera
+7.45,29.09,worm infection
+6.92,29.64,cholera
+8.0,28.47,hepatitis
+7.37,24.9,gastroenteritis
+6.15,20.81,typhoid
+6.13,22.75,scabies
+6.76,25.97,worm infection
+6.91,26.05,Diarrhoea
+7.59,21.14,amebiasis
+6.86,28.88,hepatitis
+6.68,24.53,hepatitis
+7.46,23.13,scabies
+7.33,23.74,typhoid
+7.37,24.74,Diarrhoea
+7.66,20.93,Diarrhoea
+7.49,23.73,typhoid
+7.11,25.86,scabies
+7.34,24.11,hepatitis
+7.74,27.21,worm infection
+7.2,23.52,amebiasis
+6.31,24.82,Diarrhoea
+6.7,25.56,Diarrhoea
+7.53,25.74,hepatitis
+7.69,29.75,cholera
+7.22,26.58,worm infection
+6.06,22.73,worm infection
+7.84,23.51,typhoid
+7.74,25.66,hepatitis
+6.14,27.41,cholera
+6.18,25.3,hepatitis
+6.84,23.41,scabies
+6.62,23.24,Diarrhoea
+7.77,21.56,cholera
+7.35,22.72,hepatitis
+6.97,24.42,worm infection
+6.43,25.12,scabies
+6.86,22.83,gastroenteritis
+7.05,23.08,amebiasis
+6.79,25.99,cholera
+6.41,29.45,typhoid
+7.53,22.89,Diarrhoea
+6.02,27.47,typhoid
+6.26,25.33,amebiasis
+7.0,28.33,scabies
+6.14,28.62,cholera
+6.87,24.6,Diarrhoea
+7.72,25.76,hepatitis
+7.42,24.18,Diarrhoea
+6.81,29.66,typhoid
+7.6,26.18,scabies
+6.18,28.44,amebiasis
+6.87,24.0,Diarrhoea
+6.79,23.1,scabies
+6.44,27.79,Diarrhoea
+7.02,21.14,amebiasis
+7.81,23.49,typhoid
+6.47,21.46,amebiasis
+6.35,21.53,Diarrhoea
+6.35,27.73,gastroenteritis
+6.93,25.64,gastroenteritis
+7.36,28.82,scabies
+7.73,26.27,typhoid
+6.88,24.69,worm infection
+7.59,25.91,scabies
+7.01,23.1,gastroenteritis
+6.08,23.69,worm infection
+6.15,28.64,Diarrhoea
+7.23,25.07,gastroenteritis
+7.16,29.54,cholera
+6.9,28.1,amebiasis
+6.64,24.76,typhoid
+7.92,24.51,scabies
+7.96,20.84,typhoid
+6.08,27.08,gastroenteritis
+7.05,26.1,scabies
+6.75,22.83,hepatitis
+7.55,26.79,cholera
+7.58,26.47,Diarrhoea
+6.66,25.58,hepatitis
+6.57,27.24,typhoid
+6.67,25.83,typhoid
+7.83,23.1,hepatitis
+6.26,27.09,Diarrhoea
+6.62,23.77,scabies
+7.63,26.7,Diarrhoea
+7.29,24.23,scabies
+6.04,23.09,amebiasis
+6.68,27.66,amebiasis
+6.45,21.38,Diarrhoea
+6.59,27.88,cholera
+7.32,28.76,typhoid
+7.19,21.54,typhoid
+7.66,27.71,typhoid
+7.44,20.44,scabies
+7.35,22.38,gastroenteritis
+7.22,27.52,gastroenteritis
+6.47,22.39,gastroenteritis
+7.81,21.94,gastroenteritis
+6.92,22.82,hepatitis
+7.01,24.19,typhoid
+7.63,28.01,typhoid
+7.75,20.52,gastroenteritis
+7.75,25.55,Diarrhoea
+7.42,25.16,Diarrhoea
+6.57,27.63,worm infection
+6.9,25.13,hepatitis
+6.18,29.11,gastroenteritis
+7.77,29.3,hepatitis
+6.11,25.02,amebiasis
+6.77,20.82,amebiasis
+6.06,29.31,scabies
+7.58,21.38,worm infection
+7.83,24.72,typhoid
+7.52,24.69,cholera
+7.81,20.19,amebiasis
+7.67,25.49,hepatitis
+6.22,22.88,worm infection
+6.24,22.38,gastroenteritis
+6.13,28.37,gastroenteritis
+7.19,20.16,amebiasis
+7.44,22.91,cholera
+7.23,22.41,hepatitis
+6.37,26.68,scabies
+6.14,25.26,cholera
+6.78,24.7,hepatitis
+7.96,22.54,cholera
+6.71,20.68,amebiasis
+7.47,26.28,scabies
+6.27,23.52,scabies
+7.63,21.75,gastroenteritis
+7.96,24.79,typhoid
+7.62,20.63,gastroenteritis
+6.07,22.02,amebiasis
+7.77,23.16,worm infection
+7.03,29.89,gastroenteritis
+6.51,27.53,amebiasis
+6.57,28.62,cholera
+7.73,23.32,Diarrhoea
+7.6,24.37,hepatitis
+7.49,28.95,hepatitis
+6.68,21.87,gastroenteritis
+6.73,27.97,worm infection
+7.6,27.27,Diarrhoea
+6.86,29.95,typhoid
+7.09,23.21,Diarrhoea
+6.66,22.96,gastroenteritis
+7.21,24.26,gastroenteritis
+6.7,20.42,scabies
+7.23,24.35,cholera
+6.15,26.38,scabies
+7.03,27.5,typhoid
+7.91,21.43,gastroenteritis
+6.07,20.67,scabies
+6.72,29.49,cholera
+7.21,26.79,scabies
+6.74,27.63,typhoid
+7.06,23.98,worm infection
+6.5,21.13,typhoid
+7.0,23.87,Diarrhoea
+6.52,22.6,gastroenteritis
+6.43,26.12,gastroenteritis
+6.4,21.36,Diarrhoea
+6.9,28.99,gastroenteritis
+7.99,28.11,scabies
+7.34,27.1,worm infection
+7.78,28.51,typhoid
+7.59,25.09,Diarrhoea
+7.97,27.92,amebiasis
+7.58,20.26,scabies
+6.93,29.83,typhoid
+7.22,20.86,worm infection
+6.8,27.17,gastroenteritis
+7.05,27.69,Diarrhoea
+6.25,23.17,Diarrhoea
+6.9,26.8,scabies
+6.26,28.29,typhoid
+7.54,21.29,cholera
+7.66,25.18,worm infection
+6.33,23.23,amebiasis
+6.69,29.41,worm infection
+7.69,22.51,worm infection
+6.25,23.03,Diarrhoea
+7.01,21.69,typhoid
+6.34,26.24,scabies
+7.69,25.64,cholera
+6.16,29.49,worm infection
+7.3,27.67,hepatitis
+7.24,20.3,worm infection
+7.28,23.02,amebiasis
+7.61,26.85,worm infection
+6.91,26.89,typhoid
+6.88,24.84,amebiasis
+6.68,21.44,scabies
+7.47,28.61,hepatitis
+6.26,23.71,Diarrhoea
+6.64,24.66,worm infection
+6.9,21.41,cholera
+6.58,23.84,hepatitis
+6.5,28.65,typhoid
+7.63,29.34,scabies
+6.38,21.59,gastroenteritis
+7.0,23.09,cholera
+6.18,23.93,gastroenteritis
+7.93,22.15,scabies
+6.1,22.81,gastroenteritis
+6.57,20.08,Diarrhoea
+6.86,28.82,scabies
+7.53,23.66,hepatitis
+6.1,25.62,scabies
+7.11,20.74,gastroenteritis
+7.53,22.8,Diarrhoea
+6.26,20.97,scabies
+7.59,23.39,scabies
+7.51,21.99,hepatitis
+7.0,20.45,typhoid
+7.43,28.04,gastroenteritis
+6.3,28.93,typhoid
+6.66,26.13,typhoid
+6.79,26.17,worm infection
+7.19,25.07,gastroenteritis
+7.42,23.0,cholera
+6.74,26.74,hepatitis
+7.17,27.97,cholera
+7.19,22.66,amebiasis
+7.44,25.84,typhoid
+7.05,27.21,hepatitis
+6.3,26.81,cholera
+7.15,27.01,amebiasis
+6.04,23.14,typhoid
+6.83,22.04,gastroenteritis
+7.75,27.36,cholera
+7.41,25.19,scabies
+8.0,24.78,hepatitis
+6.63,21.73,scabies
+7.09,26.76,worm infection
+7.22,21.92,amebiasis
+6.56,22.98,worm infection
+7.54,27.05,gastroenteritis
+6.63,23.49,worm infection
+6.58,25.73,hepatitis
+7.79,23.95,scabies
+7.91,28.05,worm infection
+6.08,29.55,Diarrhoea
+6.69,24.42,worm infection
+7.49,22.14,worm infection
+7.87,26.96,typhoid
+6.22,27.41,amebiasis
+6.48,26.7,amebiasis
+7.28,20.52,hepatitis
+6.66,24.72,typhoid
+6.01,25.5,typhoid
+6.81,29.35,gastroenteritis
+6.95,21.99,worm infection
+6.64,26.46,Diarrhoea
+7.3,22.32,cholera
+7.83,21.75,typhoid
+7.87,20.36,hepatitis
+7.58,21.86,worm infection
+7.75,20.09,Diarrhoea
+7.86,23.35,gastroenteritis
+7.98,25.43,gastroenteritis
+7.78,21.34,gastroenteritis
+6.55,28.09,scabies
+6.32,24.59,worm infection
+7.44,20.14,scabies
+7.58,25.68,amebiasis
+6.35,28.56,hepatitis
+7.65,25.15,Diarrhoea
+6.8,20.95,typhoid
+6.95,29.36,cholera
+6.52,22.36,worm infection
+7.91,23.02,cholera
+6.52,23.6,amebiasis
+6.12,21.18,worm infection
+6.32,26.86,worm infection
+7.38,26.39,worm infection
+6.74,22.21,typhoid
+6.96,24.55,scabies
+6.83,25.49,gastroenteritis
+7.51,28.02,amebiasis
+7.52,26.8,Diarrhoea
+7.05,25.28,scabies
+6.16,25.64,cholera
+7.66,29.03,amebiasis
+7.15,21.5,scabies
+7.71,24.42,amebiasis
+7.43,24.89,gastroenteritis
+7.62,24.53,hepatitis
+6.91,20.58,gastroenteritis
+7.35,23.08,cholera
+6.79,28.16,amebiasis
+7.16,20.45,scabies
+7.4,25.41,cholera
+7.87,20.69,gastroenteritis
+6.06,24.09,typhoid
+7.53,29.78,hepatitis
+6.75,28.91,gastroenteritis
+7.74,29.07,hepatitis
+6.16,29.64,typhoid
+7.31,23.48,typhoid
+7.99,23.93,typhoid
+7.46,22.23,cholera
+7.51,29.78,gastroenteritis
+7.35,25.44,hepatitis
+7.65,22.48,scabies
+6.31,21.88,Diarrhoea
+6.06,26.6,cholera
+6.48,20.67,cholera
+6.89,26.72,cholera
+6.49,20.44,gastroenteritis
+6.47,22.17,cholera
+6.28,29.93,amebiasis
+7.63,27.32,scabies
+7.15,27.73,scabies
+6.47,28.76,amebiasis
+6.83,22.75,typhoid
+7.25,24.27,gastroenteritis
+6.09,23.44,hepatitis
+7.57,23.19,hepatitis
+6.82,23.0,typhoid
+7.51,24.74,amebiasis
+6.6,27.08,gastroenteritis
+7.83,25.62,hepatitis
+7.11,21.34,amebiasis
+6.51,23.3,Diarrhoea
+7.84,28.47,Diarrhoea
+7.07,28.29,cholera
+6.54,26.74,cholera
+7.75,21.88,amebiasis
+6.96,28.69,scabies
+6.61,29.09,amebiasis
+7.87,29.62,Diarrhoea
+7.49,27.54,amebiasis
+7.39,27.04,hepatitis
+7.83,25.52,worm infection
+6.76,25.34,scabies
+6.62,23.6,gastroenteritis
+6.93,28.03,gastroenteritis
+7.52,23.2,amebiasis
+6.74,24.14,amebiasis
+7.48,20.16,hepatitis
+6.59,21.96,amebiasis
+6.76,28.33,gastroenteritis
+7.1,29.43,scabies
+6.51,28.22,gastroenteritis
+6.92,27.33,scabies
+6.34,27.2,gastroenteritis
+6.37,28.89,cholera
+7.05,28.39,Diarrhoea
+7.89,26.68,cholera
+6.82,28.43,amebiasis
+6.14,21.51,amebiasis
+7.01,23.73,gastroenteritis
+7.32,20.16,hepatitis
+6.02,25.29,worm infection
+7.07,22.87,hepatitis
+7.61,29.1,Diarrhoea
+7.84,25.24,amebiasis
+6.38,25.26,scabies
+6.53,23.97,scabies
+7.92,24.59,amebiasis
+7.98,22.26,Diarrhoea
+7.31,28.58,cholera
+6.19,23.79,gastroenteritis
+6.11,20.09,typhoid
+6.17,28.45,scabies
+7.13,28.58,Diarrhoea
+7.79,29.19,amebiasis
+6.42,28.68,gastroenteritis
+6.54,29.24,worm infection
+7.8,25.64,cholera
+6.36,28.5,cholera
+7.92,25.87,hepatitis
+7.86,22.99,amebiasis
+7.13,28.49,scabies
+6.77,27.4,Diarrhoea
+7.0,29.74,cholera
+6.2,22.32,Diarrhoea
+6.68,27.69,hepatitis
+7.94,23.26,worm infection
+7.57,24.51,amebiasis
+6.71,29.41,hepatitis
+6.37,25.86,hepatitis
+6.17,26.19,amebiasis
+7.43,20.82,typhoid
+6.76,27.84,typhoid
+7.48,23.17,Diarrhoea
+6.18,29.43,gastroenteritis
+6.72,22.7,typhoid
+6.17,24.31,hepatitis
+6.21,20.9,Diarrhoea
+7.19,27.84,hepatitis
+6.02,24.14,Diarrhoea
+7.45,25.6,amebiasis
+7.14,21.7,hepatitis
+6.34,22.69,worm infection
+6.99,20.63,hepatitis
+6.55,23.0,Diarrhoea
+6.72,29.44,gastroenteritis
+7.19,21.96,Diarrhoea
+6.27,20.07,hepatitis
+6.66,26.2,scabies
+6.88,24.31,typhoid
+6.6,26.03,amebiasis
+6.96,21.78,hepatitis
+7.94,22.91,gastroenteritis
+7.94,27.82,scabies
+6.75,28.16,hepatitis
+6.73,29.32,amebiasis
+7.18,25.46,cholera
+7.91,24.62,amebiasis
+6.88,22.91,Diarrhoea
+7.64,27.96,hepatitis
+7.35,21.39,worm infection
+6.48,26.59,hepatitis
+7.58,20.74,gastroenteritis
+7.16,25.34,hepatitis
+7.09,27.91,scabies
+7.4,28.12,Diarrhoea
+6.22,22.48,scabies
+6.33,26.13,hepatitis
+7.93,23.32,hepatitis
+6.21,20.99,amebiasis
+7.02,25.19,amebiasis
+6.89,23.91,typhoid
+6.69,20.25,Diarrhoea
+6.59,29.21,Diarrhoea
+6.23,29.41,typhoid
+6.7,23.43,amebiasis
+7.04,23.48,Diarrhoea
+6.88,26.97,scabies
+6.13,20.45,Diarrhoea
+6.05,23.43,Diarrhoea
+7.35,21.64,amebiasis
+7.03,25.52,scabies
+7.12,29.58,amebiasis
+7.6,26.3,typhoid
+7.28,24.32,cholera
+7.47,28.83,gastroenteritis
+7.18,23.89,amebiasis
+6.41,27.52,Diarrhoea
+7.15,28.0,typhoid
+6.73,21.97,Diarrhoea
+6.52,28.63,scabies
+7.19,26.11,Diarrhoea
+6.7,28.46,typhoid
+7.63,27.06,worm infection
+7.84,25.9,typhoid
+6.63,22.39,Diarrhoea
+6.37,26.93,hepatitis
+6.84,21.38,hepatitis
+6.85,24.87,typhoid
+7.11,24.9,typhoid
+6.37,28.42,cholera
+7.73,29.52,gastroenteritis
+6.27,28.15,gastroenteritis
+6.82,24.92,gastroenteritis
+6.98,20.83,cholera
+7.59,22.21,cholera
+6.55,25.38,typhoid
+7.56,25.66,gastroenteritis
+7.1,21.13,Diarrhoea
+6.54,25.43,scabies
+7.08,27.57,gastroenteritis
+7.09,29.9,Diarrhoea
+7.47,26.54,amebiasis
+6.6,29.99,gastroenteritis
+6.53,28.62,Diarrhoea
+6.88,29.94,amebiasis
+6.42,27.38,scabies
+7.72,26.1,hepatitis
+6.33,21.39,amebiasis
+7.63,28.05,scabies
+7.06,25.97,typhoid
+6.65,27.04,worm infection
+7.15,29.52,Diarrhoea
+6.27,27.5,hepatitis
+7.84,29.92,typhoid
+7.4,21.33,typhoid
+7.42,28.28,hepatitis
+6.98,25.77,worm infection
+7.26,23.75,Diarrhoea
+7.27,28.8,Diarrhoea
+6.81,27.5,scabies
+6.91,24.88,cholera
+7.74,28.47,Diarrhoea
+7.46,24.58,scabies
+7.7,27.96,hepatitis
+6.44,24.3,amebiasis
+6.99,23.23,worm infection
+6.68,25.78,gastroenteritis
+7.58,28.94,cholera
+6.09,26.26,gastroenteritis
+6.03,29.29,typhoid
+6.88,20.01,hepatitis
+6.4,26.89,typhoid
+7.76,23.02,worm infection
+6.19,23.6,Diarrhoea
+6.74,29.04,typhoid
+6.1,26.26,amebiasis
+6.86,20.91,Diarrhoea
+6.0,24.77,typhoid
+7.19,25.19,gastroenteritis
+6.02,26.96,Diarrhoea
+7.98,24.22,typhoid
+6.96,22.29,Diarrhoea
+7.46,21.02,scabies
+6.74,22.99,hepatitis
+7.55,27.53,typhoid
+7.28,26.77,Diarrhoea
+7.06,20.08,typhoid
+6.88,27.22,typhoid
+7.84,26.16,gastroenteritis
+7.72,20.87,Diarrhoea
+6.28,21.23,hepatitis
+6.7,24.29,typhoid
+6.5,26.45,amebiasis
+7.11,26.0,worm infection
+7.56,26.9,worm infection
+6.41,26.07,amebiasis
+7.5,22.96,cholera
+7.57,27.94,amebiasis
+6.99,21.13,gastroenteritis
+7.28,20.71,cholera
+7.97,29.34,typhoid
+6.77,28.39,hepatitis
+6.73,26.83,gastroenteritis
+7.91,27.7,cholera
+7.17,20.14,amebiasis
+6.08,20.6,hepatitis
+7.01,26.29,hepatitis
+6.85,24.02,typhoid
+6.55,23.1,amebiasis
+7.95,21.55,scabies
+6.78,26.34,Diarrhoea
+6.62,24.37,amebiasis
+6.12,20.86,hepatitis
+6.23,26.12,cholera
+6.62,27.42,typhoid
+6.24,27.08,cholera
+6.33,29.53,worm infection
+6.33,21.27,worm infection
+7.47,21.18,cholera
+6.67,24.29,Diarrhoea
+6.53,29.75,Diarrhoea
+6.99,25.11,cholera
+7.0,25.67,scabies
+6.31,27.73,Diarrhoea
+6.46,25.09,cholera
+7.72,20.12,cholera
+6.94,23.83,typhoid
+6.36,29.6,cholera
+7.11,29.14,hepatitis
+6.45,22.48,scabies
+6.54,20.78,scabies
+6.24,26.73,cholera
+6.36,28.04,cholera
+7.91,20.69,gastroenteritis
+7.73,27.74,worm infection
+6.65,25.53,cholera
+6.74,22.92,worm infection
+7.48,22.43,scabies
+7.18,24.93,amebiasis
+7.46,25.47,amebiasis
+6.3,29.32,cholera
+6.47,23.46,cholera
+7.9,20.01,hepatitis
+7.7,27.27,Diarrhoea
+6.41,29.83,hepatitis
+6.98,20.6,typhoid
+7.42,20.93,amebiasis
+7.79,25.2,scabies
+6.92,27.48,Diarrhoea
+7.01,26.37,hepatitis
+6.15,25.68,hepatitis
+7.32,21.31,worm infection
+6.52,23.15,hepatitis
+7.4,27.35,scabies
+6.91,22.34,amebiasis
+6.27,27.7,Diarrhoea
+6.31,21.64,gastroenteritis
+6.63,21.21,scabies
+7.93,22.08,worm infection
+6.93,28.52,Diarrhoea
+6.32,26.86,cholera
+6.43,28.57,typhoid
+6.18,22.48,scabies
+6.79,20.49,worm infection
+6.52,29.91,cholera
+7.9,28.55,amebiasis
+6.19,21.02,typhoid
+6.24,20.62,amebiasis
+6.26,28.24,scabies
+7.37,29.38,Diarrhoea
+7.16,22.59,Diarrhoea
+6.04,20.64,gastroenteritis
+7.62,20.92,scabies
+6.25,29.42,cholera
+6.34,25.74,hepatitis
+6.99,23.83,hepatitis
+6.35,22.15,typhoid
+6.55,24.46,typhoid
+6.07,26.19,amebiasis
+7.29,24.99,gastroenteritis
+6.12,22.8,typhoid
+6.84,26.43,amebiasis
+7.26,28.02,cholera
+7.98,27.82,scabies
+6.96,27.81,scabies
+7.83,25.02,hepatitis
+6.54,20.26,amebiasis
+6.06,28.11,worm infection
+6.12,29.92,scabies
+7.53,30.0,typhoid
+6.2,26.57,worm infection
+7.07,27.91,cholera
+7.53,29.48,hepatitis
+6.71,28.39,typhoid
+6.35,25.93,scabies
+7.83,20.28,scabies
+7.9,25.64,amebiasis
+7.67,28.1,gastroenteritis
+7.08,21.76,cholera
+6.18,22.33,amebiasis
+6.04,24.78,scabies
+7.84,22.01,typhoid
+6.68,21.77,scabies
+6.12,21.48,typhoid
+7.55,28.46,scabies
+7.92,23.74,hepatitis
+7.17,23.37,scabies
+6.27,21.58,hepatitis
+7.58,29.61,scabies
+6.35,29.69,scabies
+6.45,25.89,typhoid
+6.76,27.34,worm infection
+6.25,27.29,hepatitis
+7.7,27.71,cholera
+6.36,23.18,amebiasis
+7.28,21.04,gastroenteritis
+6.28,27.45,amebiasis
+6.69,23.2,Diarrhoea
+7.64,26.7,scabies
+6.89,22.65,amebiasis
+7.39,23.5,Diarrhoea
+7.44,20.48,gastroenteritis
+7.47,29.69,hepatitis
+6.99,23.79,hepatitis
+6.2,24.79,amebiasis
+6.33,20.74,cholera
+6.59,23.19,Diarrhoea
+6.15,21.7,hepatitis
+6.32,20.75,Diarrhoea
