@@ -7,7 +7,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import streamlit as st
 
-water_quality_dataset=pd.read_csv(".data.csv")
+water_quality_dataset=pd.read_csv("./data.csv")
 
 
 X = water_quality_dataset.drop("disease", axis=1)
